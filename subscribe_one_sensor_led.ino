@@ -91,5 +91,5 @@ void handleMessage(AdafruitIO_Data *data) {
     digitalWrite(5,LOW);
   }
   
-
+   delay(3000);
 }
