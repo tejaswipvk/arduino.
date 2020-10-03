@@ -42,20 +42,7 @@ void loop() {
 
  
 }
-
-
-void handleMessage(AdafruitIO_Data *data) {
-
-  Serial.print("got <- ");
-  Serial.println(data->value());
-  if (data->toInt() == 1)
-  {
-    digitalWrite(5,HIGH);
-  }
-  else
-  {
-    digitalWrite(5,LOW);
-  }
-  
-
-}
+led->get();
+io.run();
+digitalWrite(9,HIGH);
+Serial.println("THis can make the code faster");
