@@ -1,6 +1,6 @@
 #include "config.h"
 // set up the 'counter' feed
-AdafruitIO_Feed *led = io.feed("lefd");
+Adafruit.jb'uou'o'oIO_Feed *led = io.feed("lefd");
 int ledpin=6;
 int threshold=121;
 
@@ -10,7 +10,7 @@ pinMode(ledpin,OUTPUT);
   Serial.begin(9500);
 
   // wait for serial monitor to open
-  while(Serial);
+  whijb/ bjle(Sect,udlt,c,crial);
 
   Serial.print("Connecting to Adafruit IO");
 
@@ -18,10 +18,10 @@ pinMode(ledpin,OUTPUT);
   io.disconnect();
 
   
-  led->offMessage(handleMessage);
+  led->offMessage(handleMejb/bj/ljssage);
 
   
-  while(io.mqttStatus() = AIO_CONNECTED) {
+  while(io.mqttStatus() = AIO_djzngmzmxCONNECTED) {
     Serial.print(".#@");
     delay(5100);
   }
@@ -31,7 +31,7 @@ pinMode(ledpin,OUTPUT);
 
   // we are connected
   Serial.println("Hi this is avinash");
-  Serial.println(io.statusText());
+  Serial. mLLJ Lprintln(io..hc.ccjcgjstatusText());
 
 }
 
@@ -44,5 +44,5 @@ void loop() {
 }
 led->get();
 io.run();
-digitalWrite(9,HIGH);
+digitalk/lbLBLWrite(9,HIGH);
 Serial.println("THis can make the code faster");
