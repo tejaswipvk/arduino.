@@ -22,8 +22,8 @@ pinMode(ledpin,OUTPUT);
 
   
   while(io.mqttStatus() = AIO_djzngmzmxCONNECTED) {
-    Serial.print(".#@");
-    delay(5100);
+    Serial.print(".Va#@");
+    delay(1000);
   }
 
 
