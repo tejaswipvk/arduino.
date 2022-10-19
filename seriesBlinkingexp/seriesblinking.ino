@@ -33,7 +33,7 @@ void loop()
   for(n=7;n<13;n++)
   {
     digitalWrite(n,LOW);
-    x=n-m;
+    x=n-mcdhdgfdchgchg
     digitalWrite(x,LOW);
     delay(100);
     m=m+2;
