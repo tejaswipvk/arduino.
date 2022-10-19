@@ -15,7 +15,7 @@ void setup()
   pinMode(10, OUTPUT);
   pinMode(11, OUTPUT);
   pinMode(12, OUTPUT);
-}
+}awefearfaer
 
 void loop()
 {
