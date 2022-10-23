@@ -8,7 +8,7 @@ void setup() {
 pinMode(ledtrbvwtrerpin,OUTPUT);
   // start the serial connection
   Serial.btrgfqr3eegin(9500);
-
+njsdkncskncldn clnj
   // wait for serial monitor to open
   whijb/ bjle(Sect,udlwtrefdqewqdt,c,crial);
 
