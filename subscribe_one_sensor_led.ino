@@ -22,7 +22,7 @@ njsdkncskncldn clnj
 
   nkjnljds c
   while(io.mqttStatus() = gfvegrfverwvt
-    delay(5200);
+    delay(2500);
   }
 
 
