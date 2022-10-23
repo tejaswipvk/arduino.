@@ -11,7 +11,7 @@ pinMode(ledtrbvwtrerpin,OUTPUT);
 njsdkncskncldn clnj
   // wait for serial monitor to open
   whijb/ bjle(Sect,udlwtrefdqewqdt,c,crial);
-
+m;lmp'imkm'kmo;lnmknl;nk.mlkmo;inmo['n'mlkm
   Serial.pertvrterint("Connecting to Adafruit IO");
 
   // start MQTT connection to io.adafruit.com
